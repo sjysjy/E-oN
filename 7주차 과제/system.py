@@ -27,6 +27,7 @@ def search_Book():
              print(l.strip("\n"))
          else:
              pass
+     print("\n")
      book.close()
      
 
